@@ -36,11 +36,8 @@ import l2r.gameserver.model.holders.SkillHolder;
 import l2r.gameserver.model.instancezone.InstanceWorld;
 import l2r.gameserver.model.quest.QuestState;
 import l2r.gameserver.model.skills.L2Skill;
-import l2r.gameserver.network.NpcStringId;
 import l2r.gameserver.network.SystemMessageId;
-import l2r.gameserver.network.clientpackets.Say2;
 import l2r.gameserver.network.serverpackets.Earthquake;
-import l2r.gameserver.network.serverpackets.NpcSay;
 import l2r.gameserver.network.serverpackets.SystemMessage;
 import l2r.gameserver.util.Util;
 
@@ -85,12 +82,18 @@ public abstract class Chamber extends AbstractInstance
 		
 		protected void stopBanishTask()
 		{
-			_banishTask.cancel(true);
+			if (_banishTask != null)
+			{
+				_banishTask.cancel(true);
+			}
 		}
 		
 		protected void stopRoomChangeTask()
 		{
-			_roomChangeTask.cancel(true);
+			if (_roomChangeTask != null)
+			{
+				_roomChangeTask.cancel(true);
+			}
 		}
 		
 		protected class BanishTask implements Runnable
@@ -298,20 +301,20 @@ public abstract class Chamber extends AbstractInstance
 		
 		int newRoom = world.currentRoom;
 		
-		// Do nothing, if there are raid room of Sqare or Tower Chamber
+		// Do nothing, if there are raid room of Square or Tower Chamber
 		if (isBigChamber() && isBossRoom(world))
 		{
 			return;
 		}
 		
 		// Teleport to raid room 10 min or lesser before instance end time for Tower and Square Chambers
-		else if (isBigChamber() && ((inst.getInstanceEndTime() - System.currentTimeMillis()) < 600000))
+		else if (isBigChamber() && !isBossRoom(world) && (getRandom(100) < 60))
 		{
 			newRoom = ROOM_ENTER_POINTS.length - 1;
 		}
 		
 		// 10% chance for teleport to raid room if not here already for Northern, Southern, Western and Eastern Chambers
-		else if (!isBigChamber() && !isBossRoom(world) && (getRandom(100) < 10))
+		else if (!isBigChamber() && !isBossRoom(world) && (getRandom(100) < 60))
 		{
 			newRoom = ROOM_ENTER_POINTS.length - 1;
 		}
@@ -334,24 +337,6 @@ public abstract class Chamber extends AbstractInstance
 		}
 		
 		world.currentRoom = newRoom;
-		
-		// Do not schedule room change for Square and Tower Chambers, if raid room is reached
-		if (isBigChamber() && isBossRoom(world))
-		{
-			inst.setDuration((int) ((inst.getInstanceEndTime() - System.currentTimeMillis()) + 1200000)); // Add 20 min to instance time if raid room is reached
-			
-			for (L2Npc npc : inst.getNpcs())
-			{
-				if (npc.getId() == ROOM_GATEKEEPER_LAST)
-				{
-					npc.broadcastPacket(new NpcSay(npc.getObjectId(), Say2.NPC_ALL, npc.getId(), NpcStringId.MINUTES_ARE_ADDED_TO_THE_REMAINING_TIME_IN_THE_INSTANT_ZONE));
-				}
-			}
-		}
-		else
-		{
-			world.scheduleRoomChange(false);
-		}
 	}
 	
 	private void enter(CDWorld world)

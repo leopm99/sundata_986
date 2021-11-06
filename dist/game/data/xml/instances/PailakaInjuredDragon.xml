@@ -2,7 +2,7 @@
 <instance name="Pailaka73_77" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
 	<activityTime val="90" />
 	<allowSummon val="false" />
-	<emptyDestroyTime val="3000" />
+	<emptyDestroyTime val="180" />
 	<exitPoint x="147725" y="-56517" z="-2780" />
 	<spawnlist>
 	<group name="general">

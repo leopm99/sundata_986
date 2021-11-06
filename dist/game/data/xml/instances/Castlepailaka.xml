@@ -2,5 +2,5 @@
 <instance name="Castle Pailaka" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
 	<activityTime val="30" />
 	<allowSummon val="false" />
-	<emptyDestroyTime val="600" />
+	<emptyDestroyTime val="120" />
 </instance>

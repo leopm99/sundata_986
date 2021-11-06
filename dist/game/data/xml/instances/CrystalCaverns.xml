@@ -2,9 +2,9 @@
 <instance name="CrystalCaverns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
 	<activityTime val="90" />
 	<allowSummon val="false" />
-	<emptyDestroyTime val="1200" />
+	<emptyDestroyTime val="180" />
 	<exitPoint x="149442" y="173520" z="-5024" />
-	<reenter additionStyle="ON_INSTANCE_ENTER" >
+	<reenter additionStyle="ON_INSTANCE_FINISH" >
 		<reset time="86400000" />
 	</reenter>
 	<doorlist>

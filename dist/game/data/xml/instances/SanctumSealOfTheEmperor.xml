@@ -2,7 +2,7 @@
 <instance name="Disciple" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
 	<activityTime val="60" />
 	<allowSummon val="false" />
-	<emptyDestroyTime val="600" />
+	<emptyDestroyTime val="180" />
 	<exitPoint x="171862" y="-17607" z="-4900" />
 	<doorlist>
 		<door doorId="17240101" />

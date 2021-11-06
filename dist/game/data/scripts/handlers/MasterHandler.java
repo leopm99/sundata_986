@@ -296,16 +296,21 @@ import handlers.voicedcommandhandlers.Banking;
 import handlers.voicedcommandhandlers.CcpVCmd;
 import handlers.voicedcommandhandlers.ChangePassword;
 import handlers.voicedcommandhandlers.ChatAdmin;
+import handlers.voicedcommandhandlers.CombineTalismans;
 import handlers.voicedcommandhandlers.Debug;
 import handlers.voicedcommandhandlers.EvenlyDistributeItems;
 import handlers.voicedcommandhandlers.Hellbound;
 import handlers.voicedcommandhandlers.ItemBufferVCmd;
 import handlers.voicedcommandhandlers.Lang;
+import handlers.voicedcommandhandlers.MakeAncientAdena;
 import handlers.voicedcommandhandlers.OnlineVCmd;
+import handlers.voicedcommandhandlers.OpenAtod;
 import handlers.voicedcommandhandlers.PingVCmd;
 import handlers.voicedcommandhandlers.PremiumVCmd;
 import handlers.voicedcommandhandlers.PvpZoneVCmd;
+import handlers.voicedcommandhandlers.Quiz;
 import handlers.voicedcommandhandlers.RepairVCmd;
+import handlers.voicedcommandhandlers.SiegeManagerCmd;
 import handlers.voicedcommandhandlers.TeleportsVCmd;
 import handlers.voicedcommandhandlers.Wedding;
 
@@ -658,9 +663,14 @@ public class MasterHandler
 		(ChaoticZoneConfigs.ENABLE_CHAOTIC_ZONE ? PvpZoneVCmd.class : null),
 		(CustomServerConfigs.ALLOW_REPAIR_COMMAND ? RepairVCmd.class : null),
 		(CustomServerConfigs.ALLOW_TELEPORTS_COMMAND ? TeleportsVCmd.class : null),
+		Quiz.class,
 		PingVCmd.class,
+		CombineTalismans.class,
+		MakeAncientAdena.class,
+		OpenAtod.class,
 		(Config.L2JMOD_ALLOW_WEDDING ? Wedding.class : null),
 		(GetRewardVoteSystemConfigs.ENABLE_VOTE_SYSTEM ? RewardVote.class : null),
+		(Config.ENABLE_SIEGE_CASTLE_MANAGER ? SiegeManagerCmd.class : null),
 	};
 	
 	private void loadHandlers(IHandler<?, ?> handler, Class<?>[] classes)

@@ -2,5 +2,5 @@
 <instance name="Fortress Dungeon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
 	<activityTime val="60" />
 	<allowSummon val="false" />
-	<emptyDestroyTime val="300" />
+	<emptyDestroyTime val="120" />
 </instance>

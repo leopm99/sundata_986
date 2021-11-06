@@ -132,7 +132,7 @@ public final class IceQueensCastleNormalBattle extends AbstractInstance
 		new Location(114024, -112278, -11210),
 		new Location(113865, -112435, -11210),
 		new Location(113865, -112276, -11210),
-		
+	
 	};
 	private static final Location[] STATUES_LOC =
 	{
@@ -220,18 +220,18 @@ public final class IceQueensCastleNormalBattle extends AbstractInstance
 									final L2Npc statue = addSpawn(INVISIBLE_NPC, loc, false, 0, false, world.getInstanceId());
 									world.knightStatues.add(statue);
 								}
-							}
-							
-							for (L2PcInstance players : world.playersInside)
-							{
-								if ((players != null) && (players.getInstanceId() == world.getInstanceId()))
-								{
-									final QuestState qs = players.getQuestState(Q10286_ReunionWithSirra.class.getSimpleName());
-									if ((qs != null) && (qs.getState() == State.STARTED) && qs.isCond(5))
-									{
-										qs.setCond(6, true);
-									}
-								}
+								// }
+								//
+								// for (L2PcInstance players : world.playersInside)
+								// {
+								// if ((players != null) && (players.getInstanceId() == world.getInstanceId()))
+								// {
+								// final QuestState qs = players.getQuestState(Q10286_ReunionWithSirra.class.getSimpleName());
+								// if ((qs != null) && (qs.getState() == State.STARTED) && qs.isCond(5))
+								// {
+								// qs.setCond(6, true);
+								// }
+								// }
 							}
 							startQuestTimer("STAGE_1_MOVIE", 60000, world.controller, null);
 						}
@@ -605,7 +605,7 @@ public final class IceQueensCastleNormalBattle extends AbstractInstance
 						}
 						catch (Exception e)
 						{
-						
+							
 						}
 						break;
 					}

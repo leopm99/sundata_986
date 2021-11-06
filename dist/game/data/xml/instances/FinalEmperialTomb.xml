@@ -2,7 +2,7 @@
 <instance name="Final Emperial Tomb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
 	<activityTime val="120" />
 	<allowSummon val="false" />
-	<emptyDestroyTime val="1800" />
+	<emptyDestroyTime val="120" />
 	<exitPoint x="181381" y="-80883" z="-2730" />
 	<reenter additionStyle="NONE" >
 		<reset day="Wednesday" hour="6" minute="30" />

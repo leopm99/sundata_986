@@ -21,10 +21,22 @@ public class TeleportsVCmd implements IVoicedCommandHandler
 		"aden",
 		"goddard",
 		"gludio",
+		"gludin",
 		"rune",
 		"heine",
 		"schuttgart",
-		"oren"
+		"oren",
+		"hunters",
+		"zaken",
+		"tezza",
+		"freya",
+		"baium",
+		"antharas",
+		"valakas",
+		"queenant",
+		"core",
+		"orfen",
+		"beleth"
 	};
 	
 	@Override
@@ -87,6 +99,9 @@ public class TeleportsVCmd implements IVoicedCommandHandler
 			case "gludio":
 				loc = new Location(-14413, 123044, -3112);
 				break;
+			case "gludin":
+				loc = new Location(-80852, 149906, -3044);
+				break;
 			case "rune":
 				loc = new Location(43759, -48122, -792);
 				break;
@@ -101,6 +116,39 @@ public class TeleportsVCmd implements IVoicedCommandHandler
 				break;
 			case "oren":
 				loc = new Location(82760, 53578, -1491);
+				break;
+			case "hunters":
+				loc = new Location(116863, 76725, -2720);
+				break;
+			case "queenant":
+				loc = new Location(-21595, 185358, -5608);
+				break;
+			case "core":
+				loc = new Location(17649, 110895, -6648);
+				break;
+			case "orfen":
+				loc = new Location(54290, 19307, -5256);
+				break;
+			case "baium":
+				loc = new Location(113862, 15327, 9560);
+				break;
+			case "zaken":
+				loc = new Location(52214, 218899, -3224);
+				break;
+			case "freya":
+				loc = new Location(102405, -124428, -2768);
+				break;
+			case "tezza":
+				loc = new Location(181377, -80712, -2728);
+				break;
+			case "antharas":
+				loc = new Location(154308, 121317, -3808);
+				break;
+			case "valakas":
+				loc = new Location(183597, -114791, -3336);
+				break;
+			case "beleth":
+				loc = new Location(-45481, 246352, -14184);
 				break;
 		}
 		

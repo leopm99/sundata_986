@@ -2,7 +2,7 @@
 <instance name="Chamber of Delusion (Western Seal)" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
 	<activityTime val="40" />
 	<allowSummon val="false" />
-	<emptyDestroyTime val="1200" />
+	<emptyDestroyTime val="120" />
 	<exitPoint x="-114592" y="-152509" z="-6723" />
 	<spawnlist>
 		<group name="general">

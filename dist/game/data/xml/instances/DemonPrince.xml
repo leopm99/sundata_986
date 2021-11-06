@@ -2,7 +2,7 @@
 <instance name="Demon Prince" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
 	<activityTime val="30" />
 	<allowSummon val="false" />
-	<emptyDestroyTime val="600" />
+	<emptyDestroyTime val="120" />
 	<exitPoint x="-22213" y="277138" z="-9930" />
 	<reenter additionStyle="ON_INSTANCE_FINISH" >
 		<reset day="Wednesday" hour="6" minute="30" />

@@ -2,7 +2,7 @@
 <instance name="Pailaka (Devil's Isle)" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
 	<activityTime val="60" />
 	<allowSummon val="false" />
-	<emptyDestroyTime val="3000" />
+	<emptyDestroyTime val="180" />
 	<exitPoint x="85039" y="147543" z="-3400" />
 	<doorlist>
 		<door doorId="22110100" />
