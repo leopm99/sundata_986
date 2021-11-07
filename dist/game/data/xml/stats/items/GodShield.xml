@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/items.xsd">
+    	
+	<item id="30500" type="Armor" name="Immortal Shield">
+		<set name="icon" val="Beranka_by_SHEV_tex.beranka_SHEV_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="424" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="CRYSTAL" />
+		<set name="weight" val="1190" />
+		<set name="price" val="8839000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="8423-1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="355" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="30501" type="Armor" name="Twilight Shield">
+		<set name="icon" val="Icon_Shields_SHEV.PhoenixWing_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="424" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="CRYSTAL" />
+		<set name="weight" val="1190" />
+		<set name="price" val="8839000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="8423-1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="355" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="30502" type="Armor" name="Seraph Shield">
+		<set name="icon" val="Icon_Shields_SHEV.kratere_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="424" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="CRYSTAL" />
+		<set name="weight" val="1190" />
+		<set name="price" val="8839000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="8423-1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="355" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="30503" type="Armor" name="Eternal Shield">
+		<set name="icon" val="Icon_Shields_SHEV.weapon_akra_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="424" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="CRYSTAL" />
+		<set name="weight" val="1190" />
+		<set name="price" val="8839000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="8423-1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="355" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+	<item id="30504" type="Armor" name="Leviathan Shield">
+		<set name="icon" val="Icon_Shields_SHEV.Weapon_Sumontes_i01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="lhand" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="424" />
+		<set name="crystal_type" val="S84" />
+		<set name="material" val="CRYSTAL" />
+		<set name="weight" val="1190" />
+		<set name="price" val="8839000" />
+		<set name="enchant_enabled" val="1" />
+		<set name="item_skill" val="8423-1" />
+		<cond msgId="1518">
+			<player races="HUMAN,ELF,DARK_ELF,ORC,DWARF" />
+		</cond>
+		<for>
+			<sub stat="rEvas" val="8" />
+			<set stat="rShld" val="20" />
+			<set stat="sDef" val="355" />
+			<enchant val="0" stat="sDef" />
+		</for>
+	</item>
+</list>

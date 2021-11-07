@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/items.xsd">
+	<item id="22568" type="Weapon" name="AIO Dual Blunt(30-Days)">
+		<set name="icon" val="icon.weapon_the_dualsword_of_hero_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="immediate_effect" val="true" />		
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="264-1;267-1;268-1;269-1;271-1;272-1;273-1;276-1;274-1;275-1;304-1;305-1;306-1;307-1;309-1;310-1;349-1;363-1;364-1;365-1;529-1;915-1;1549-1;1362-1;1461-1;1538-1;1364-1;1536-1;1537-1;1364-1;1416-115;1535-1;982-3;4699-13;4702-13;4703-13;4700-13;1519-1;1562-2;1078-6;1035-4;1388-3;1389-3;1033-330;1032-330;1548-330;1182-330;1191-330;1189-330;1392-130;1393-130;1085-3;1356-315;1355-315;1357-315;1259-330;1397-230;285-1;1303-2;1353-1;1002-3;1307-3;828-1;829-1;830-1;825-1;826-1;827-1;1363-315;1390-3;1391-3;1365-1;1323-1;266-1;1232-330;1542-1;1403-1;1429-1;366-1;1413-1;1503-1;764-1;530-1;1050-2;1460-1;1073-2;834-1;914-1;1255-1;40000-1" />
+		<set name="time" val="43200" />
+		<for>
+			<set stat="pAtk" val="1" />
+			<set stat="mAtk" val="1" />
+			<set stat="mAtkSpd" val="925" />
+			<set stat="pAtkSpd" val="925" />
+			<add stat="maxMp" val="2000" />
+			<mul stat="regMp" val="75.0" />
+		</for>
+	</item>
+	<item id="22569" type="Weapon" name="AIO Dual Blunt(15-Days)">
+		<set name="icon" val="icon.weapon_the_dualsword_of_hero_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="immediate_effect" val="true" />		
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="264-1;267-1;268-1;269-1;271-1;272-1;273-1;276-1;274-1;275-1;304-1;305-1;306-1;307-1;309-1;310-1;349-1;363-1;364-1;365-1;529-1;915-1;1549-1;1362-1;1461-1;1538-1;1364-1;1536-1;1537-1;1364-1;1416-115;1535-1;982-3;4699-13;4702-13;4703-13;4700-13;1519-1;1562-2;1078-6;1035-4;1388-3;1389-3;1033-330;1032-330;1548-330;1182-330;1191-330;1189-330;1392-130;1393-130;1085-3;1356-315;1355-315;1357-315;1259-330;1397-230;285-1;1303-2;1353-1;1002-3;1307-3;828-1;829-1;830-1;825-1;826-1;827-1;1363-315;1390-3;1391-3;1365-1;1323-1;266-1;1232-330;1542-1;1403-1;1429-1;366-1;1413-1;1503-1;764-1;530-1;1050-2;1460-1;1073-2;834-1;914-1;1255-1;40000-1" />
+		<set name="time" val="21600" />
+		<for>
+			<set stat="pAtk" val="1" />
+			<set stat="mAtk" val="1" />
+			<set stat="mAtkSpd" val="925" />
+			<set stat="pAtkSpd" val="925" />
+			<add stat="maxMp" val="2000" />
+			<mul stat="regMp" val="75.0" />
+		</for>
+	</item>
+	<item id="22570" type="Weapon" name="AIO Dual Blunt(07-Days)">
+		<set name="icon" val="icon.weapon_the_dualsword_of_hero_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="weapon_type" val="DUAL" />
+		<set name="bodypart" val="lrhand" />
+		<set name="random_damage" val="10" />
+		<set name="attack_range" val="40" />
+		<set name="damage_range" val="0;0;44;120" />
+		<set name="immediate_effect" val="true" />		
+		<set name="material" val="ADAMANTAITE" />
+		<set name="weight" val="1300" />
+		<set name="soulshots" val="1" />
+		<set name="spiritshots" val="1" />
+		<set name="is_tradable" val="true" />
+		<set name="is_dropable" val="false" />
+		<set name="is_destroyable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_depositable" val="true" />
+		<set name="is_oly_restricted" val="true" />
+		<set name="item_skill" val="264-1;267-1;268-1;269-1;271-1;272-1;273-1;276-1;274-1;275-1;304-1;305-1;306-1;307-1;309-1;310-1;349-1;363-1;364-1;365-1;529-1;915-1;1549-1;1362-1;1461-1;1538-1;1364-1;1536-1;1537-1;1364-1;1416-115;1535-1;982-3;4699-13;4702-13;4703-13;4700-13;1519-1;1562-2;1078-6;1035-4;1388-3;1389-3;1033-330;1032-330;1548-330;1182-330;1191-330;1189-330;1392-130;1393-130;1085-3;1356-315;1355-315;1357-315;1259-330;1397-230;285-1;1303-2;1353-1;1002-3;1307-3;828-1;829-1;830-1;825-1;826-1;827-1;1363-315;1390-3;1391-3;1365-1;1323-1;266-1;1232-330;1542-1;1403-1;1429-1;366-1;1413-1;1503-1;764-1;530-1;1050-2;1460-1;1073-2;834-1;914-1;1255-1;40000-1" />
+		<set name="time" val="10080" />
+		<for>
+			<set stat="pAtk" val="1" />
+			<set stat="mAtk" val="1" />
+			<set stat="mAtkSpd" val="925" />
+			<set stat="pAtkSpd" val="925" />
+			<add stat="maxMp" val="2000" />
+			<mul stat="regMp" val="75.0" />
+		</for>
+	</item>
+	<item id="22571" type="EtcItem" name="Gold Bar">
+		<set name="icon" val="icon.etc_lump_yellow_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22572" type="EtcItem" name="Bronze Coin">
+		<set name="icon" val="icon.etc_magic_coin_blood_i01" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22573" type="EtcItem" name="Silver Coin">
+		<set name="icon" val="icon.etc_magic_coin_silver_i01" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22574" type="EtcItem" name="Golden Coin">
+		<set name="icon" val="icon.etc_magic_coin_gold_i01" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22575" type="EtcItem" name="Donate Coin">
+		<set name="icon" val="icon.etc_magic_coin_blue_i01" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22576" type="EtcItem" name="Vote Coin">
+		<set name="icon" val="icon.etc_statue_of_einhasad_gold_i00" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="22577" type="EtcItem" name="Vitality Potion">
+		<!-- Description: Upon use, for 4 hours, when Exp. is acquired through hunting, vitality is recovered. Cannot be exchanged or dropped. Can be stored in a private warehouse. -->
+		<set name="icon" val="icon.etc_potion_blue_i00" />
+		<set name="default_action" val="SKILL_REDUCE" />
+		<set name="etcitem_type" val="POTION" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="80" />
+		<set name="immediate_effect" val="true" />
+		<set name="is_tradable" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="handler" val="ItemSkills" />
+		<set name="item_skill" val="22312-1" />
+		<cond msgId="113" addName="1">
+			<player flyMounted="false" />
+		</cond>
+	</item>
+	<item id="22579" type="EtcItem" name="Event Coin">
+		<set name="icon" val="icon.etc_magic_coin_blue_i01" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="GOLD" />
+		<set name="is_tradable" val="True" />
+		<set name="is_dropable" val="false" />
+		<set name="is_sellable" val="True" />
+		<set name="is_depositable" val="True" />
+		<set name="is_stackable" val="true" />
+	</item>
+</list>

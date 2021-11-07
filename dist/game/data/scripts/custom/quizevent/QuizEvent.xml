@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list>
-    <question id = "1" ask = "Which planet is closest to the sun?" answer1 = "Venus" answer2 = "Earth" answer3 = "Mercury" correct = "3" />
+<question id = "1" ask = "Which planet is closest to the sun?" answer1 = "Venus" answer2 = "Earth" answer3 = "Mercury" correct = "3" />
 <question id = "2" ask = "How is the number 9 written in Roman numerals? " answer1 = "X" answer2 = "IX" answer3 = "VII" correct = "2" />
 <question id = "3" ask = " What creatures body does the Sphinx have? " answer1 = "Eagle" answer2 = "Fox" answer3 = "Lion" correct = "3" />
 <question id = "4" ask = "In what country is the Taj Mahal" answer1 = "India" answer2 = "China" answer3 = "Mongolia" correct = "1" />

@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/items.xsd">
+
+	<item id="32001" type="Armor" name="Christmas Wear">
+		<set name="icon" val="ChristmasTex.armor_ev_santas_clothes" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>
+
+		<item id="32002" type="Armor" name="Vampire Hunter">
+		<set name="icon" val="SuitIcon.g_co_vampiric_u_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>
+		<item id="32003" type="Armor" name="Camouflage Suit">
+		<set name="icon" val="BranchSys3.icon1.g_co_military_u" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>
+		<item id="32004" type="Armor" name="Maids Costume">
+		<set name="icon" val="BranchSys3.icon1.g_co_cutie_maid" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>
+		<item id="32005" type="Armor" name="Shadows Costume">
+		<set name="icon" val="BranchSys3.g_co_ninja_u" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>
+		<item id="32006" type="Armor" name="Chinese Dress A">
+		<set name="icon" val="TexMultiCrazY_m00q.MultiCrazY_m00q_armor_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>
+	<item id="32007" type="Armor" name="Chinese Dress B">
+		<set name="icon" val="TexMultiCrazY_m00q.MultiCrazY_m00q_armor_a_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>
+	<item id="32008" type="Armor" name="Chinese Dress C">
+		<set name="icon" val="TexMultiCrazY_m00q.MultiCrazY_m00q_armor_b_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>
+	<item id="32009" type="Armor" name="Chinese Dress D">
+		<set name="icon" val="TexMultiCrazY_m00q.MultiCrazY_m00q_armor_c_b_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>
+	<item id="32010" type="Armor" name="Swimwear A">
+		<set name="icon" val="BranchSys3.icon1.g_co_swimsuit_event_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32011" type="Armor" name="Swimwear B">
+		<set name="icon" val="BranchSys3.icon1.g_co_swimsuit_event_02" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32012" type="Armor" name="Swimwear C">
+		<set name="icon" val="BranchSys3.icon1.g_co_swimsuit_event_03" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32013" type="Armor" name="Swimwear D">
+		<set name="icon" val="BranchSys3.g_co_sf_underwear_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32014" type="Armor" name="Swimwear E">
+		<set name="icon" val="BranchSys3.g_co_sf_underwear_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32015" type="Armor" name="Swimwear F">
+		<set name="icon" val="BranchSys3.icon1.g_co_premium_underwear" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32016" type="Armor" name="Underwear Tattoos A">
+		<set name="icon" val="BranchSys3.g_co_sf_underwear_01" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32017" type="Armor" name="Underwear Tattoos B">
+		<set name="icon" val="BranchSys3.g_co_sexy_underwear" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32018" type="Armor" name="Underwear Tattoos C">
+		<set name="icon" val="BranchSys3.icon1.g_co_tatu" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32019" type="Armor" name="Ciborg Suit">
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+
+	<item id="32020" type="Armor" name="White Assassin Costume">
+		<set name="icon" val="AssCostume.ico.Asmw_ico" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32021" type="Armor" name="Assassin Costume">
+		<set name="icon" val="AssCostume.ico.Asm_ico" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+
+	<item id="32022" type="Armor" name="Red Zaken Suit">
+		<set name="icon" val="SuitIcon.g_co_captain_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32023" type="Armor" name="Pirate Suit">
+		<set name="icon" val="SuitIcon.g_co_pirate_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32024" type="Armor" name="Musketeer Suit">
+		<set name="icon" val="SuitIcon.inquisitor_blue" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32025" type="Armor" name="Lord Suit">
+		<set name="icon" val="SuitIcon.nobless_red" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+
+	<item id="32026" type="Armor" name="School Uniform A">
+		<set name="icon" val="SuitIcon.Br_schoollook" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32027" type="Armor" name="School Uniform B">
+		<set name="icon" val="LineageCustom4.Br_schoollook_b" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32028" type="Armor" name="Cowboy Suit">
+		<set name="icon" val="SuitIcon.cowboy_i" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+
+	<item id="32029" type="Armor" name="Wizard Green Suit">
+		<set name="icon" val="viRUS_Ramona.viRUS_Icon.viRUS_004_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+
+	<item id="32030" type="Armor" name="Wizard Purple Suit">
+		<set name="icon" val="viRUS_Ramona.viRUS_Icon.viRUS_005_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+
+	<item id="32031" type="Armor" name="Musketeer Red">
+		<set name="icon" val="SuitIcon.inquisitor_red" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+
+	<item id="32032" type="Armor" name="Anakim Suit">
+		<set name="icon" val="AssCostume.ico.anakim_ico" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+
+	<item id="32033" type="Armor" name="Samurai Suit">
+		<set name="icon" val="SuitIcon.g_co_japan_general_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+
+	<item id="32034" type="Armor" name="Beleth Suit">
+		<set name="icon" val="LineageCustomTexAll.g_co_beres_u" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32035" type="Armor" name="TrackSuits Suit">
+		<set name="icon" val="SuitIcon.Baseball_Armor_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32036" type="Armor" name="TrackSuits Suit">
+		<set name="icon" val="SuitIcon.Baseball_Armor_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32037" type="Armor" name="TrackSuits Suit">
+		<set name="icon" val="SuitIcon.Baseball_Armor_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32038" type="Armor" name="Fancy Suit">
+		<set name="icon" val="SuitIcon.ev_new_mag" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32039" type="Armor" name="Navy Suit">
+		<set name="icon" val="SuitIcon.navy_uniform" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32040" type="Armor" name="Archer Green">
+		<set name="icon" val="SuitIcon.arc_ico" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32041" type="Armor" name="Wizard Red">
+		<set name="icon" val="SuitIcon.g_co_wzd_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32042" type="Armor" name="Cat Suit">
+		<set name="icon" val="CatArmorTex.CatArmor_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32043" type="Armor" name="Archer Red Suit">
+		<set name="icon" val="SuitIcon.RobinRed" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32044" type="Armor" name="Lord White Suit">
+		<set name="icon" val="SuitIcon.nobless_red2" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32045" type="Armor" name="Halloween Suit">
+		<set name="icon" val="SuitIcon.ev_new_halloween" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32046" type="Armor" name="Ice Queen Suit">
+		<set name="icon" val="LineageUniqueTex2.icon.freya_robe_upbody" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32047" type="Armor" name="Dark Lord Suit">
+		<set name="icon" val="LineageCustom4.Dark_Kninght" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+	<item id="32048" type="Armor" name="Taiwan Suit">
+		<set name="icon" val="BranchSys3.g_co_paiwan_u" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32049" type="Armor" name="Blue Zaken Suit">
+		<set name="icon" val="SuitIcon.pirate_blue_change" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32800" type="Armor" name="Healer Suit">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_01_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32801" type="Armor" name="White Knight Suit">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_02_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32802" type="Armor" name="Barbarian Suit">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_03_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32803" type="Armor" name="Chevalier Suit">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_04_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32804" type="Armor" name="Grand Chevalier Suit">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_05_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32805" type="Armor" name="Valkirye Suit">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_06_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32806" type="Armor" name="Bear Suit">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_07_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32807" type="Armor" name="Catlike Suit">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_08_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32808" type="Armor" name="Catlike Suit">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_09_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32809" type="Armor" name="Grand Vampire Suit">
+		<set name="icon" val="L2RampageFour.viRUS_Icon.viRUS_02_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32810" type="Armor" name="Black Suit">
+		<set name="icon" val="L2RampageFour.viRUS_Icon.viRUS_06_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32811" type="Armor" name="Panda Suit">
+		<set name="icon" val="L2RampageFour.viRUS_Icon.viRUS_09_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32812" type="Armor" name="Feline Suit">
+		<set name="icon" val="L2RampageFour.viRUS_Icon.viRUS_10_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32813" type="Armor" name="Grand Zaken Suit">
+		<set name="icon" val="LineageNPCs_L2Rampage00.viRUS_Icon.viRUS_04_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32814" type="Armor" name="Dragon Knight Suit">
+		<set name="icon" val="L2RampagePack00.viRUS_Icon.viRUS_082_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32815" type="Armor" name="Akamanah Suit">
+		<set name="icon" val="L2RampagePack00.viRUS_Icon.viRUS_093_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32816" type="Armor" name="Zariche Suit">
+		<set name="icon" val="L2RampagePack00.viRUS_Icon.viRUS_094_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32817" type="Armor" name="Alice Wonderland Suit">
+		<set name="icon" val="L2RampagePack00.viRUS_Icon.viRUS_096_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32818" type="Armor" name="Demon Windged Suit">
+		<set name="icon" val="L2RampagePack00.viRUS_Icon.viRUS_101_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+		<item id="32819" type="Armor" name="Clown Suit">
+		<set name="icon" val="L2RampagePack00.viRUS_Icon.viRUS_103_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="armor_type" val="HEAVY" />
+		<set name="bodypart" val="alldress" />
+		<set name="immediate_effect" val="true" />
+	</item>	
+
+	
+</list>

@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/items.xsd">
+	<item id="32051" type="Armor" name="Vampire Hunter Halo">
+		<set name="icon" val="BranchSys3.icon1.g_co_paiwan_hair" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+
+	<item id="32052" type="Armor" name="Black Beret">
+		<set name="icon" val="BranchSys3.icon1.g_co_military_hair_m" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32053" type="Armor" name="Forage Cap">
+		<set name="icon" val="BranchSys3.icon1.g_co_military_hair_f" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32054" type="Armor" name="Iron Helmet">
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_hair" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32055" type="Armor" name="Mask of Shadows">
+		<set name="icon" val="BranchSys3.icon1.g_co_ninja_hair" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32056" type="Armor" name="King Cap">
+		<set name="icon" val="viRUS_Ramona.viRUS_Icon.viRUS_h002_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32057" type="Armor" name="Kowboi Cap">
+		<set name="icon" val="viRUS_Ramona.viRUS_Icon.viRUS_h003_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32058" type="Armor" name="Wizard Cap B">
+		<set name="icon" val="viRUS_Ramona.viRUS_Icon.viRUS_h004_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32059" type="Armor" name="Wizard Cap C">
+		<set name="icon" val="viRUS_Ramona.viRUS_Icon.viRUS_005_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32060" type="Armor" name="Musketeer Hat B">
+		<set name="icon" val="viRUS_Ramona.viRUS_Icon.viRUS_008_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32061" type="Armor" name="Seraph Helmet">
+		<set name="icon" val="SuitIcon.Seraph_Helm_i" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32062" type="Armor" name="Immortal Helmet">
+		<set name="icon" val="SuitIcon.Immortal_Helm_i" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32063" type="Armor" name="Eternal Helmet">
+		<set name="icon" val="SuitIcon.Eternal_Helm_i" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32064" type="Armor" name="Twilight Helmet">
+		<set name="icon" val="SuitIcon.Twilight_Helm_i" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32065" type="Armor" name="Halloween Hat">
+		<set name="icon" val="SuitIcon.Halloween_Hat_i" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32066" type="Armor" name="Samurai Helmet">
+		<set name="icon" val="SuitIcon.iconArmor.g_co_japan_general_hair_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32067" type="Armor" name="Masquerade Hat">
+		<set name="icon" val="SuitIcon.Mag_Hat_i" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32068" type="Armor" name="Admiral Hat">
+		<set name="icon" val="SuitIcon.Zaken_Hat_Blue_i" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32069" type="Armor" name="Hat Robin Hood">
+		<set name="icon" val="DestarionAddSuit.Arc_Hat_Green_i" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32070" type="Armor" name="Fan Hat">
+		<set name="icon" val="BranchSys3.icon1.g_hair_jester_hat_pl" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32071" type="Armor" name="Nifty Hat">
+		<set name="icon" val="BranchSys3.icon1.g_hair_fancy_hat_pl" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32072" type="Armor" name="Pimp Hat">
+		<set name="icon" val="BranchSys3.icon1.g_hair_gorale_hat_pl" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32073" type="Armor" name="Peakless Cap">
+		<set name="icon" val="BranchSys3.icon1.g_hair_peakless_cap_m" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32074" type="Armor" name="Kokoshnik">
+		<set name="icon" val="BranchSys3.icon1.g_hair_kokoshnik_f" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32075" type="Armor" name="Polish People">
+		<set name="icon" val="BranchSys3.icon1.g_co_paiwan_hair" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32076" type="Armor" name="Straw">
+		<set name="icon" val="BranchSys3.icon.g_straw_hat" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32077" type="Armor" name="Pumpkin Accessory">
+		<set name="icon" val="BranchSys3.Icon.g_halloween_magic_hat" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+	<item id="32078" type="Armor" name="Beach Set">
+		<set name="icon" val="BranchSys3.icon.g_beach_cap" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32079" type="Armor" name="Sorcerers Hat">
+		<set name="icon" val="SuitIcon.Wzd_Hat_i" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+
+		<item id="32080" type="Armor" name="Cats Hat">
+		<set name="icon" val="CatArmorTex.CatHat_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32820" type="Armor" name="Healer Hat">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_01_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32821" type="Armor" name="White Knight Hat">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_02_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32822" type="Armor" name="Barbarian Hat">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_03_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32823" type="Armor" name="Chevalier Hat">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_04_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32824" type="Armor" name="Grand Chevalier Hat">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_05_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32825" type="Armor" name="Valkirye Hat">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_06_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32826" type="Armor" name="Bear's Hat">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_07_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32827" type="Armor" name="Catlike Hat">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_08_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32828" type="Armor" name="Catlike Hat">
+		<set name="icon" val="L2RampageThree.viRUS_Icon.viRUS_Set_08_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32830" type="Armor" name="Vampire's Hat">
+		<set name="icon" val="L2RampageFour.viRUS_Icon.viRUS_02_H_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32831" type="Armor" name="Panda Hat">
+		<set name="icon" val="L2RampageFour.viRUS_Icon.viRUS_09_H_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32832" type="Armor" name="Feline Hat">
+		<set name="icon" val="L2RampageFour.viRUS_Icon.viRUS_10_H_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32833" type="Armor" name="Akamanah Sigil">
+		<set name="icon" val="LineageNPCs_L2Rampage01.viRUS_Icon.viRUS_aka_sigil_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32834" type="Armor" name="Zarich Sigil">
+		<set name="icon" val="LineageNPCs_L2Rampage01.viRUS_Icon.viRUS_zar_sigil_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32835" type="Armor" name="Baium Hat">
+		<set name="icon" val="LineageNPCs_L2Rampage00.viRUS_Icon.viRUS_02_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32837" type="Armor" name="Dragon Knight Hat">
+		<set name="icon" val="L2RampagePack00.viRUS_Icon.viRUS_082_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32838" type="Armor" name="Akmanah Hat">
+		<set name="icon" val="L2RampagePack00.viRUS_Icon.viRUS_093_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32839" type="Armor" name="Zarich Hat">
+		<set name="icon" val="L2RampagePack00.viRUS_Icon.viRUS_094_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>			
+		<item id="32840" type="Armor" name="Alice Wonderlands Hat">
+		<set name="icon" val="L2RampagePack00.viRUS_Icon.viRUS_096_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32841" type="Armor" name="Grand Windged Hat">
+		<set name="icon" val="L2RampagePack00.viRUS_Icon.viRUS_101_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32842" type="Armor" name="Clown Hat">
+		<set name="icon" val="L2RampagePack00.viRUS_Icon.viRUS_103_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32843" type="Armor" name="Joker  Hat">
+		<set name="icon" val="L2Ashenvale.viRUS_Icon.viRUS_06_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32844" type="Armor" name="The Zorro Hat">
+		<set name="icon" val="L2Ashenvale.viRUS_Icon.viRUS_05_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32845" type="Armor" name="The Police Hat">
+		<set name="icon" val="L2Ashenvale.viRUS_Icon.viRUS_04_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32846" type="Armor" name="Aviator Glasses Hat">
+		<set name="icon" val="L2Ashenvale.viRUS_Icon.viRUS_03_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32847" type="Armor" name="Mariachi Hat">
+		<set name="icon" val="L2Ashenvale.viRUS_Icon.viRUS_02_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32848" type="Armor" name="Bandanna Hat">
+		<set name="icon" val="L2Ashenvale.viRUS_Icon.viRUS_01_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+		<item id="32849" type="Armor" name="Covid19 Mask">
+		<set name="icon" val="L2Ashenvale.viRUS_Icon.viRUS_07_h_i00" />
+		<set name="default_action" val="EQUIP" />
+		<set name="bodypart" val="hair" />
+		<set name="immediate_effect" val="true" />
+		<set name="crystal_count" val="213" />
+		<set name="crystal_type" val="S" />
+		<set name="material" val="MITHRIL" />
+		<set name="weight" val="7970" />
+		<set name="price" val="1596000" />
+		<set name="enchant_enabled" val="1" />
+	</item>	
+
+</list>
