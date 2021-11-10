@@ -1275,5 +1275,22 @@
 	<weapon id="30623" name="Lindvior Thrower" type="BOW">
 		<price id="57" count="1000000000" />
 	</weapon>
-	
+	<weapon id="30624" name="Lindvior Slasher" type="ANCIENTSWORD">
+		<price id="57" count="1000000000" />
+	</weapon>
+	<weapon id="30625" name="Antharas Slasher" type="ANCIENTSWORD">
+		<price id="57" count="1000000000" />
+	</weapon>
+	<weapon id="30626" name="Valakas Slasher" type="ANCIENTSWORD">
+		<price id="57" count="1000000000" />
+	</weapon>
+	<weapon id="30627" name="Valakas Cutter" type="RAPIER">
+		<price id="57" count="1000000000" />
+	</weapon>
+	<weapon id="30628" name="Antharas Cutter" type="RAPIER">
+		<price id="57" count="1000000000" />
+	</weapon>	
+	<weapon id="30629" name="Lindvior Cutter" type="RAPIER">
+		<price id="57" count="1000000000" />
+	</weapon>	
 </list>
