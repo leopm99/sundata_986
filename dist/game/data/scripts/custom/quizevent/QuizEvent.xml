@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE RelativeLayout>
 <list>
 <question id = "1" ask = "Which planet is closest to the sun?" answer1 = "Venus" answer2 = "Earth" answer3 = "Mercury" correct = "3" />
 <question id = "2" ask = "How is the number 9 written in Roman numerals? " answer1 = "X" answer2 = "IX" answer3 = "VII" correct = "2" />
@@ -92,6 +93,5 @@
 <question id = "90" ask = "What is an Almoner" answer1 = "1 who gives out gifts" answer2 = "1 who gives out flowers" answer3 = "1 who gives out bushes" correct = "1" />
 <question id = "91" ask = "Why i love L2BK" answer1 = "Because no Lag?" answer2 = "Because we Love it!" answer3 = "Because GM respect us all!!!" correct = "3" />
 <question id = "92" ask = "What we should do when we find a BUG on L2BK" answer1 = "We exploit it and fook the server..." answer2 = "We start to shout: OMG!OMFG! BUG GM! OMFG!" answer3 = "We nicely REPORT to GM!" correct = "3" />
-<question id = "93" ask = "How i vote for L2BK" answer1 = "Vote a random link from site and shout ingame: GM I DID NOT GET REWARD!!!" answer2 = "Vote just 2 random banners and type .getreward and shout: WHY CANNOT GET REWARD??" answer3 = "Vote all BANNERS and type: .getreward" correct = "3" />
-    
+<question id = "93" ask = "How i vote for L2BK" answer1 = "Vote a random link from site and shout ingame: GM I DID NOT GET REWARD!!!" answer2 = "Vote just 2 random banners and type .getreward and shout: WHY CANNOT GET REWARD??" answer3 = "Vote all BANNERS and type: .getreward" correct = "3" />    
 </list>

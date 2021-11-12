@@ -303,6 +303,7 @@ import handlers.voicedcommandhandlers.Hellbound;
 import handlers.voicedcommandhandlers.ItemBufferVCmd;
 import handlers.voicedcommandhandlers.Lang;
 import handlers.voicedcommandhandlers.MakeAncientAdena;
+import handlers.voicedcommandhandlers.Offline;
 import handlers.voicedcommandhandlers.OnlineVCmd;
 import handlers.voicedcommandhandlers.OpenAtod;
 import handlers.voicedcommandhandlers.PingVCmd;
@@ -668,6 +669,7 @@ public class MasterHandler
 		CombineTalismans.class,
 		MakeAncientAdena.class,
 		OpenAtod.class,
+		Offline.class,
 		(Config.L2JMOD_ALLOW_WEDDING ? Wedding.class : null),
 		(GetRewardVoteSystemConfigs.ENABLE_VOTE_SYSTEM ? RewardVote.class : null),
 		(Config.ENABLE_SIEGE_CASTLE_MANAGER ? SiegeManagerCmd.class : null),

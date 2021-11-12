@@ -12,6 +12,9 @@
 				<skill id="619" level="1" /> <!-- Transform Dispel -->
 				<skill id="5437" level="1" /> <!-- Dissonance -->
 			</skills>
+			<levels>
+			<level val="1" levelMod="0.9" hp="8000.8" mp="90000.3" cp="40.4" hpRegen="2.0" mpRegen="999.9" cpRegen="2.0" />
+			</levels>
 		</Male>
 		<Female>
 			<common>
@@ -24,6 +27,9 @@
 				<skill id="619" level="1" /> <!-- Transform Dispel -->
 				<skill id="5437" level="1" /> <!-- Dissonance -->
 			</skills>
+			<levels>
+			<level val="1" levelMod="0.9" hp="8000.8" mp="90000.3" cp="40.4" hpRegen="2.0" mpRegen="999.9" cpRegen="2.0" />
+			</levels>
 		</Female>
 	</transform>
 </list>
