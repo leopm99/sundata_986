@@ -23,8 +23,8 @@ import l2r.gameserver.model.skills.L2Skill;
 import l2r.gameserver.network.SystemMessageId;
 import l2r.gameserver.network.serverpackets.ExSendUIEvent;
 import l2r.gameserver.network.serverpackets.SystemMessage;
-import l2r.gameserver.util.Util;
 import l2r.gameserver.util.Broadcast;
+import l2r.gameserver.util.Util;
 
 public class BehemothKing extends Quest
 {
@@ -93,7 +93,7 @@ public class BehemothKing extends Quest
 	private static final int[][] CRYSTAL_SPAWNS = {
 		{81000,-15440,-1810}
 	};
-	private static final int[][] BOSS_SPAWN = {{38009,81561,-15432,-1837}};
+	private static final int[][] BOSS_SPAWN = {{81561,-15432,-1837}};
 	private static final int[] FINAL_NPC_SPAWN = {79367,-16617,-819};
 	//@formatter:on
 	
@@ -336,7 +336,7 @@ public class BehemothKing extends Quest
 		}
 		return super.onSkillSee(npc, caster, skill, targets, isPet);
 	}
-
+	
 	@Override
 	public String onAttack(L2Npc npc, L2PcInstance attacker, int damage, boolean isPet, L2Skill skill)
 	{
