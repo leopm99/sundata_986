@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance name="BehemothKing" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
+	<activityTime val="120" />
+	<allowSummon val="false" />
+	<emptyDestroyTime val="120" />
+	<showTimer val="true" />
+	<exitPoint x="83418" y="148619" z="-3405" />
+</instance>

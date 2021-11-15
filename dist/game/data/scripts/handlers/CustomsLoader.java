@@ -1,5 +1,7 @@
 package handlers;
 
+import l2r.Config;
+
 import gr.sr.handler.ABLoader;
 
 import custom.EchoCrystals.EchoCrystals;
@@ -8,6 +10,7 @@ import custom.NewbieCoupons.NewbieCoupons;
 import custom.NpcLocationInfo.NpcLocationInfo;
 import custom.PinsAndPouchUnseal.PinsAndPouchUnseal;
 import custom.RaidbossInfo.RaidbossInfo;
+import custom.RewardForTimeOnline.RewardForTimeOnline;
 import custom.ShadowWeapons.ShadowWeapons;
 import custom.Validators.SubClassSkills;
 import custom.events.Wedding.Wedding;
@@ -32,6 +35,7 @@ public final class CustomsLoader extends ABLoader
 		ShadowWeapons.class,
 		SubClassSkills.class,
 		Wedding.class,
+		(Config.ENABLE_REWARD_FOR_TIME ? RewardForTimeOnline.class : null),
 	};
 	
 	public CustomsLoader()

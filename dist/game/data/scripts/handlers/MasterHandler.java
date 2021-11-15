@@ -311,8 +311,10 @@ import handlers.voicedcommandhandlers.PremiumVCmd;
 import handlers.voicedcommandhandlers.PvpZoneVCmd;
 import handlers.voicedcommandhandlers.Quiz;
 import handlers.voicedcommandhandlers.RepairVCmd;
+import handlers.voicedcommandhandlers.SevenRB;
 import handlers.voicedcommandhandlers.SiegeManagerCmd;
 import handlers.voicedcommandhandlers.TeleportsVCmd;
+import handlers.voicedcommandhandlers.ToMob;
 import handlers.voicedcommandhandlers.Wedding;
 
 /**
@@ -672,7 +674,9 @@ public class MasterHandler
 		Offline.class,
 		(Config.L2JMOD_ALLOW_WEDDING ? Wedding.class : null),
 		(GetRewardVoteSystemConfigs.ENABLE_VOTE_SYSTEM ? RewardVote.class : null),
+		SevenRB.class,
 		(Config.ENABLE_SIEGE_CASTLE_MANAGER ? SiegeManagerCmd.class : null),
+		(Config.TELEPORT_TO_MOB_COMMAND ? ToMob.class : null),
 	};
 	
 	private void loadHandlers(IHandler<?, ?> handler, Class<?>[] classes)
